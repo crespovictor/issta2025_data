@@ -1,0 +1,201 @@
+﻿Feature,Description
+feature_fuel_mean,Average value of fuel level
+feature_fuel_std,Standard deviation of fuel level
+feature_fuel_min,Minimum value of fuel level
+feature_fuel_max,Maximum value of fuel level
+feature_brake_input_mean,Average value of input to brake actuators
+feature_brake_input_std,Standard deviation of input to brake actuators
+feature_brake_input_min,Minimum value of input to brake actuators
+feature_brake_input_max,Maximum value of input to brake actuators
+feature_gear_mean,Average value of gearbox
+feature_gear_std,Standard deviation of gearbox
+feature_gear_min,Minimum value of gearbox
+feature_gear_max,Maximum value of gearbox
+feature_wheelspeed_mean,Average value of wheelspeed rotation
+feature_wheelspeed_std,Standard deviation of wheelspeed rotation
+feature_wheelspeed_min,Minimum value of wheelspeed rotation
+feature_wheelspeed_max,Maximum value of wheelspeed rotation
+feature_brake_mean,Average value of brake value
+feature_brake_std,Standard deviation of brake value
+feature_brake_min,Minimum value of brake value
+feature_brake_max,Maximum value of brake value
+feature_throttle_mean,Average value of throttle value
+feature_throttle_std,Standard deviation of throttle value
+feature_throttle_min,Minimum value of throttle value
+feature_throttle_max,Maximum value of throttle value
+feature_parkingbrake_mean,Average value of parking brake
+feature_parkingbrake_std,Standard deviation of parking brake
+feature_parkingbrake_min,Minimum value of parking brake
+feature_parkingbrake_max,Maximum value of parking brake
+feature_reverse_mean,Average value of reverse gear
+feature_reverse_std,Standard deviation of reverse gear
+feature_reverse_min,Minimum value of reverse gear
+feature_reverse_max,Maximum value of reverse gear
+feature_airspeed_mean,Average value of airspeed
+feature_airspeed_std,Standard deviation of airspeed
+feature_airspeed_min,Minimum value of airspeed
+feature_airspeed_max,Maximum value of airspeed
+feature_smoothShiftLogicAV_mean,Average value of Smooth Shift logic
+feature_smoothShiftLogicAV_std,Standard deviation of Smooth Shift logic
+feature_smoothShiftLogicAV_min,Minimum value of Smooth Shift logic
+feature_smoothShiftLogicAV_max,Maximum value of Smooth Shift logic
+feature_abs_mean,Average value of Anti-lock Brake System (ABS)
+feature_abs_std,Standard deviation of Anti-lock Brake System (ABS)
+feature_abs_min,Minimum value of Anti-lock Brake System (ABS)
+feature_abs_max,Maximum value of Anti-lock Brake System (ABS)
+feature_steering_mean,Average value of steering value
+feature_steering_std,Standard deviation of steering value
+feature_steering_min,Minimum value of steering value
+feature_steering_max,Maximum value of steering value
+feature_steering_input_mean,Average value of steering input
+feature_steering_input_std,Standard deviation of steering input
+feature_steering_input_min,Minimum value of steering input
+feature_steering_input_max,Maximum value of steering input
+feature_rpmspin_mean,Average value of engine's rpm
+feature_rpmspin_std,Standard deviation of engine's rpm
+feature_rpmspin_min,Minimum value of engine's rpm
+feature_rpmspin_max,Maximum value of engine's rpm
+feature_airflowspeed_mean,Average value of speed of airflow
+feature_airflowspeed_std,Standard deviation of speed of airflow
+feature_airflowspeed_min,Minimum value of speed of airflow
+feature_airflowspeed_max,Maximum value of speed of airflow
+feature_engineRunning_mean,Average value of Engine running indicator
+feature_engineRunning_std,Standard deviation of Engine running indicator
+feature_engineRunning_min,Minimum value of Engine running indicator
+feature_engineRunning_max,Maximum value of Engine running indicator
+feature_altitude_mean,Average value of altitude
+feature_altitude_std,Standard deviation of altitude
+feature_altitude_min,Minimum value of altitude
+feature_altitude_max,Maximum value of altitude
+feature_throttle_input_mean,Average value of throttle input value
+feature_throttle_input_std,Standard deviation of throttle input value
+feature_throttle_input_min,Minimum value of throttle input value
+feature_throttle_input_max,Maximum value of throttle input value
+feature_driveshaft_mean,Average value of driveshaft speed
+feature_driveshaft_std,Standard deviation of driveshaft speed
+feature_driveshaft_min,Minimum value of driveshaft speed
+feature_driveshaft_max,Maximum value of driveshaft speed
+feature_tcs_mean,Average value of Traction Control System (TCS)
+feature_tcs_std,Standard deviation of Traction Control System (TCS)
+feature_tcs_max,Minimum value of Traction Control System (TCS)
+feature_odometer_mean,Average value of odometer
+feature_odometer_std,Standard deviation of odometer
+feature_odometer_min,Minimum value of odometer
+feature_odometer_max,Maximum value of odometer
+feature_parkingbrake_input_mean,Average value of parking brake input
+feature_parkingbrake_input_std,Standard deviation of parking brake input
+feature_parkingbrake_input_min,Minimum value of parking brake input
+feature_parkingbrake_input_max,Maximum value of parking brake input
+feature_brakelight_signal_R_mean,Average value of right brake light signal
+feature_brakelight_signal_R_std,Standard deviation of right brake light signal
+feature_brakelight_signal_R_min,Minimum value of right brake light signal
+feature_brakelight_signal_R_max,Maximum value of right brake light signal
+feature_brakelight_signal_L_mean,Average value of left brake light signal
+feature_brakelight_signal_L_std,Standard deviation of left brake light signal
+feature_brakelight_signal_L_min,Minimum value of left brake light signal
+feature_brakelight_signal_L_max,Maximum value of left brake light signal
+feature_isYCBrakeActive_mean,Average value of Yaw Control (YC) brake action
+feature_isYCBrakeActive_std,Standard deviation of Yaw Control (YC) brake action
+feature_isYCBrakeActive_max,Minimum value of Yaw Control (YC) brake action
+feature_isTCBrakeActive_mean,Average value of Traction Control (TC) brake action
+feature_isTCBrakeActive_std,Standard deviation of Traction Control (TC) brake action
+feature_isTCBrakeActive_min,Minimum value of Traction Control (TC) brake action
+feature_isTCBrakeActive_max,Maximum value of Traction Control (TC) brake action
+feature_clutch_mean,Average value of clutch
+feature_clutch_std,Standard deviation of clutch
+feature_clutch_min,Minimum value of clutch
+feature_clutch_max,Maximum value of clutch
+feature_rpm_mean,Average value of RPMs
+feature_rpm_std,Standard deviation of RPMs
+feature_rpm_min,Minimum value of RPMs
+feature_rpm_max,Maximum value of RPMs
+feature_freezeState_mean,Average value of Freeze state
+feature_freezeState_std,Standard deviation of Freeze state
+feature_freezeState_min,Minimum value of Freeze state
+feature_freezeState_max,Maximum value of Freeze state
+feature_esc_mean,Average value of Electronic Stability Control (ESC)
+feature_esc_std,Standard deviation of Electronic Stability Control (ESC)
+feature_esc_max,Minimum value of Electronic Stability Control (ESC)
+feature_virtualAirspeed_mean,Average value of virtual airspeed
+feature_virtualAirspeed_std,Standard deviation of virtual airspeed
+feature_virtualAirspeed_min,Minimum value of virtual airspeed
+feature_virtualAirspeed_max,Maximum value of virtual airspeed
+feature_abs_active_mean,Average value of ABS being active
+feature_abs_active_std,Standard deviation of ABS being active
+feature_abs_active_max,Minimum value of ABS being active
+feature_avg_wheel_av_mean,Average value of average wheel of AV
+feature_avg_wheel_av_std,Standard deviation of average wheel of AV
+feature_avg_wheel_av_min,Minimum value of average wheel of AV
+feature_avg_wheel_av_max,Maximum value of average wheel of AV
+feature_brake_lights_mean,Average value of brake lights state
+feature_brake_lights_std,Standard deviation of brake lights state
+feature_brake_lights_min,Minimum value of brake lights state
+feature_brake_lights_max,Maximum value of brake lights state
+feature_clutch_ratio_mean,Average value of clutch ratio
+feature_clutch_ratio_std,Standard deviation of clutch ratio
+feature_clutch_ratio_min,Minimum value of clutch ratio
+feature_clutch_ratio_max,Maximum value of clutch ratio
+feature_engine_load_mean,Average value of engine's load
+feature_engine_load_std,Standard deviation of engine's load
+feature_engine_load_min,Minimum value of engine's load
+feature_engine_load_max,Maximum value of engine's load
+feature_engine_throttle_mean,Average value of engine throttle
+feature_engine_throttle_std,Standard deviation of engine throttle
+feature_engine_throttle_min,Minimum value of engine throttle
+feature_engine_throttle_max,Maximum value of engine throttle
+feature_esc_active_mean,Average value of Electronic Stability Control (ESC) state
+feature_esc_active_std,Standard deviation of Electronic Stability Control (ESC) state
+feature_esc_active_max,Minimum value of Electronic Stability Control (ESC) state
+feature_exhaust_flow_mean,Average value of exhaust flow
+feature_exhaust_flow_std,Standard deviation of exhaust flow
+feature_exhaust_flow_min,Minimum value of exhaust flow
+feature_exhaust_flow_max,Maximum value of exhaust flow
+feature_fuel_volume_mean,Average value of fuel volume
+feature_fuel_volume_std,Standard deviation of fuel volume
+feature_fuel_volume_min,Minimum value of fuel volume
+feature_fuel_volume_max,Maximum value of fuel volume
+feature_gear_index_mean,Average value of gear index
+feature_gear_index_std,Standard deviation of gear index
+feature_gear_index_min,Minimum value of gear index
+feature_gear_index_max,Maximum value of gear index
+feature_gear_m_mean,Average value of gear in manual
+feature_gear_m_std,Standard deviation of gear in manual
+feature_gear_m_min,Minimum value of gear in manual
+feature_gear_m_max,Maximum value of gear in manual
+feature_is_shifting_mean,Average value of shifting state
+feature_is_shifting_std,Standard deviation of shifting state
+feature_is_shifting_max,Minimum value of shifting state
+feature_oil_temperature_mean,Average value of oil temperature
+feature_oil_temperature_std,Standard deviation of oil temperature
+feature_oil_temperature_min,Minimum value of oil temperature
+feature_oil_temperature_max,Maximum value of oil temperature
+feature_rpm_tacho_mean,Average value of tachometer's RPM value
+feature_rpm_tacho_std,Standard deviation of tachometer's RPM value
+feature_rpm_tacho_min,Minimum value of tachometer's RPM value
+feature_rpm_tacho_max,Maximum value of tachometer's RPM value
+feature_tcs_active_mean,Average value of Traction Control System (TCS) state
+feature_tcs_active_std,Standard deviation of Traction Control System (TCS) state
+feature_tcs_active_max,Minimum value of Traction Control System (TCS) state
+feature_water_temperature_mean,Average value of water temperature
+feature_water_temperature_std,Standard deviation of water temperature
+feature_water_temperature_min,Minimum value of water temperature
+feature_water_temperature_max,Maximum value of water temperature
+feature_test_duration,Test duration
+feature_full_road_diversity,Area under the curve - curvature ratio
+feature_mean_road_diversity,Average value of - curvature ratio
+feature_direct_distance,Direct distance
+feature_max_angle,Maximum value of all angles in the road
+feature_max_pivot_off,Maximum value of radius of all turns of the road
+feature_mean_angle,Average value of all angles in the road
+feature_mean_pivot_off,Average value of radius of all turns of the road
+feature_median_angle,Median value of all angles in the road
+feature_median_pivot_off,Median value of radius of all turns of the road
+feature_min_angle,Minimum value of any angle in the road
+feature_min_pivot_off,Minimum value of radius of any turn of the road
+feature_num_l_turns,Number of left turns
+feature_num_r_turns,Number of right turns
+feature_num_straights,Number of straight segments
+feature_road_distance,Road  distance
+feature_std_angle,Standard deviation of all angles in the road
+feature_std_pivot_off,Standard deviation of radius of all turns of the road
+feature_total_angle,Sum of all angles in the road

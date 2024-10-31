@@ -1,0 +1,17 @@
+﻿Feature,Description
+feature_steering_std,Standard deviation of steering value
+feature_steering_min,Minimum value of steering value
+feature_steering_input_std,Standard deviation of steering input
+feature_steering_input_max,Maximum value of steering input
+feature_altitude_mean,Average value of altitude
+feature_altitude_max,Maximum value of altitude
+feature_esc_mean,Average value of Electronic Stability Control (ESC)
+feature_esc_std,Standard deviation of Electronic Stability Control (ESC)
+feature_esc_active_mean,Average value of Electronic Stability Control (ESC) state
+feature_esc_active_std,Standard deviation of Electronic Stability Control (ESC) state
+feature_full_road_diversity,Area under the curve - curvature ratio
+feature_max_angle,Maximum value of all angles in the road
+feature_min_angle,Minimum value of any angle in the road
+feature_num_l_turns,Number of left turns
+feature_road_distance,Road  distance
+feature_std_angle,Standard deviation of all angles in the road
