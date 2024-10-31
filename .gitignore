@@ -1,7 +1,11 @@
 # OS generated files #
 ######################
 .DS_Store?
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
 ehthumbs.db
+**/._*
 ._*
 # Icon?
 Thumbs.db
